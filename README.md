@@ -1,5 +1,7 @@
 # veterinary-appointment
 Appointment scheduling app for a veterinary clinic using PHP
+System Users: Customers, Doctors, Admin
+
 ![WeChat Screenshot_20210614183449](https://user-images.githubusercontent.com/37948472/121880566-bdbfd980-cd40-11eb-93a6-dcdd98cbf40c.png)
 ![WeChat Screenshot_20210614185118](https://user-images.githubusercontent.com/37948472/121881259-9ddce580-cd41-11eb-86ad-84b28f5b0eed.png)
 ![WeChat Screenshot_202106141851d45](https://user-images.githubusercontent.com/37948472/121881267-a0d7d600-cd41-11eb-97ba-5b6b04d75986.png)
